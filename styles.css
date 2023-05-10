@@ -1,0 +1,22 @@
+*{
+    padding: 0;
+    margin:0;
+    box-sizing: border-box;
+}
+h1{
+    font-size: 100px;
+    margin-top: 20%;
+    text-align: center;
+    color: rgb(55, 156, 182);
+}
+button{
+    display: inline-block;
+    margin: auto;
+    font-size: 20px;
+    border-radius: 5px ;
+}
+body{
+    background-image: url("card-3.jpeg");
+    background-repeat:no-repeat;
+    background-size:cover;
+}
